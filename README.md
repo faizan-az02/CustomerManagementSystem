@@ -1,5 +1,3 @@
-Learning Flask and Posting whatever I do, here.
-
 # Flask Customer Management App
 
 A Flask web application for managing customers, their orders, and addresses. This project demonstrates user registration, login, and viewing all users with their associated orders and addresses. Data is stored in a MySQL database using SQLAlchemy ORM.
